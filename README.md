@@ -1,2 +1,2 @@
 # campaign-planning-tool-examples
-How to use campaign_planning_tool library: Jupyter examples
+How to use campaign-planning-tool library: Jupyter examples
